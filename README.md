@@ -1,6 +1,11 @@
 # AsciiArt
-Saída via Teclado 06
 
+* 🖥️ Exercício: Saída via Console (6) - AsciiArt  
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientadores: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md
+* 
 ## Enunciado 
 
 Exiba a arte abaixo.
